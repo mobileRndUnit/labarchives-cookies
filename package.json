@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+  "_id": "labarchives-cookies@git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git#23856185f282f6a2879fac20ba3f8f9130811b49",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/labarchives-cookies",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+    "rawSpec": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+    "saveSpec": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+    "fetchSpec": "https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git#23856185f282f6a2879fac20ba3f8f9130811b49",
+  "_spec": "git+https://gitlab.intecracy.com/LabArchives/labarchives-cookies.git",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "dependencies": {
+    "invariant": "^2.1.0"
+  },
+  "description": "Cookie manager for react native",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "labarchives-cookies",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "scripts": {},
+  "version": "1.0.2"
+}
